@@ -19,4 +19,4 @@ to Compile:
 run : ant <your target>
 pleas note: I used simple build.xml to only include basic tag within the build.xml.
 
-I would normally I would do Junit testing but I assumed the task to be done by core java.
+I would normally do Junit testing but I assumed the task to be done by core java.
